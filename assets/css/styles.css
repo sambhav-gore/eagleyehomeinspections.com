@@ -2958,7 +2958,7 @@ ul.prc-list li {
   top: 0;
   height: 100%;
   width: 100%;
-  background: #052a46;
+  background: #ece4e4;
   opacity: 0.7;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 }
@@ -2969,14 +2969,14 @@ ul.prc-list li {
 }
 
 .gm-title span {
-  color: #ece4e4;
+  color: #052a46;
   letter-spacing: 0.2em;
   font-size: 16px;
   text-transform: uppercase;
 }
 
 .gm-title h2 {
-  color: #ece4e4;
+  color: #052a46;
   font-size: 32px;
   letter-spacing: 0;
   margin: 9px 0px 29px;
@@ -2986,7 +2986,7 @@ ul.prc-list li {
 .gm-title p {
   font-size: 17px;
   letter-spacing: 0;
-  color: #f1ecec;
+  color: #052a46;
   line-height: 31px;
 }
 
